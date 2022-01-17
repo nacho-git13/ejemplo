@@ -1,0 +1,2 @@
+Este es un ejemplo para probar Git. 
+Esta es la primera versión de nuestro archivo. 
