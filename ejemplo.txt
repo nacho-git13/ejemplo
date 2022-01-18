@@ -2,3 +2,5 @@ Este es un ejemplo para probar Git.
 Esta es la primera versión de nuestro archivo. 
 
 Había una vez un virus llamado COVID-19... era una mierda
+
+Estos cambios estarán en una branch y no en el master
