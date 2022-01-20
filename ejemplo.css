@@ -2,10 +2,12 @@ body {
     font-family: courier;
     color: redgit ;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 #header {
-    width: 1000px;
+    width: auto;
     border: 2px black solid;
     padding: 20px;
     text-align: center;
