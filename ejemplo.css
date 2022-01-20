@@ -1,4 +1,12 @@
 body {
     font-family: courier;
     color: redgit ;
+    text-align: center;
+}
+
+#header {
+    width: 1000px;
+    border: 2px black solid;
+    padding: 20px;
+    text-align: center;
 }
