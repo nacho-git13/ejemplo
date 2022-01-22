@@ -12,3 +12,17 @@ body {
     padding: 20px;
     text-align: center;
 }
+
+#footer {
+    background-color: gray;
+}
+
+#cuerpo {
+    height: 300px;
+    align-items: center;
+}
+
+p {
+    margin: auto auto;
+    padding-top: 10%;
+}
